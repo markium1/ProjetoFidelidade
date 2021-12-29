@@ -2,15 +2,18 @@ package ProjetoFidelidade;
 
 public class Funcionario extends Pessoa{
 
-    private String dataAdmissao;
     private String codFunc;
 
-    public String getDataAdmissao() {
-        return dataAdmissao;
+    public void cadastrarCliente(){
+
     }
 
-    public void setDataAdmissao(String dataAdmissao) {
-        this.dataAdmissao = dataAdmissao;
+    public void adicionarPontos(Cliente c){
+
+    }
+
+    public void retirarPremios(){
+
     }
 
     public String getCodFunc() {
